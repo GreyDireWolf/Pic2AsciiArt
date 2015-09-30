@@ -1,16 +1,10 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-
-
-
 from __future__ import absolute_import
 from itertools import imap
 __title__ = u'Pic2AsciiArt'
 __version__=0.1
-
-
-
 
 FONT = u"fonts/FSEX300.ttf"
 FONTSIZE = 15
