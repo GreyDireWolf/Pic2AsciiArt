@@ -1,9 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-
-
-
 __title__ = 'Pic2AsciiArt'
 __version__ = '0.1'
 
