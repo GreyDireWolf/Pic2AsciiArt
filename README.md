@@ -4,7 +4,7 @@ A stupid script to convert picture to ascii art (only tested on .png format)
 
 Dependency-pillow
 
-Install the dependencies and devDependencies and run the script
+Clone the repo,install the pillow via pip and run the script
 Usage
 ```
 ./main.py <source file> <width> [bg brightness] [bg color] [output file]
